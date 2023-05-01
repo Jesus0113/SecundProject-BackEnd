@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-backend-3raforward",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesus0113/SecundProject-BackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesus0113/SecundProject-BackEnd/issues"
+  },
+  "homepage": "https://github.com/Jesus0113/SecundProject-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
